@@ -23,7 +23,7 @@
 ## Table of contents
 * [esPiC](https://github.com/cheshirepezz/PiC1D/tree/master/esPiC)
 * C++ver
-    * [Skeleton PiC1D](https://github.com/cheshirepezz/PiC1D/tree/master/C%2B%2Bver/skeleton)
+    * [PiC1D (Skeleton)](https://github.com/cheshirepezz/PiC1D/tree/master/C%2B%2Bver/skeleton)
     * [1D1V (Two Stream Instability)](https://github.com/cheshirepezz/PiC1D/tree/master/C%2B%2Bver/1D1V)
     * [1D1Vrel (Relativistic Two Stream Instability)](https://github.com/cheshirepezz/PiC1D/tree/master/C%2B%2Bver/1D1Vrel)
     * [1D3V (Relativistic Weibel Instability)](https://github.com/cheshirepezz/PiC1D/tree/master/C%2B%2Bver/1D3V)
