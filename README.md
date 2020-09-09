@@ -18,7 +18,7 @@
   
 </p>
 
-# Two Stream Instability PiC1D code (FDTD)
+# Particle in Cell Code 1D (FDTD)
 
 ## Table of contents
 * [esPiC](https://github.com/cheshirepezz/PiC1D/tree/master/esPiC)
