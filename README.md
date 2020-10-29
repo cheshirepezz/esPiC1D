@@ -21,16 +21,16 @@
 # Particle in Cell Code 1D (FDTD)
 
 ## Table of contents
-* [esPiC](https://github.com/cheshirepezz/xPiC1D/tree/master/esPiC)
 * Cpp version
     * [PiC1D (Skeleton)](https://github.com/cheshirepezz/xPiC1D/tree/master/C%2B%2B/skeleton)
     * [1D1V (Two Stream Instability)](https://github.com/cheshirepezz/xPiC1D/tree/master/C%2B%2B/1D1V)
     * [1D1Vrel (Relativistic Two Stream Instability)](https://github.com/cheshirepezz/xPiC1D/tree/master/C%2B%2B/1D1Vrel)
     * [1D3V (Relativistic Weibel Instability)](https://github.com/cheshirepezz/xPiC1D/tree/master/C%2B%2B/1D3V)
-* Py version
+* Py version (class)
     * [1D1V](https://github.com/cheshirepezz/xPiC1D/tree/master/Py.Py/1D1V)
     * [1D3V](https://github.com/cheshirepezz/xPiC1D/tree/master/Py.Py/1D3V)
     * [Plotting](https://github.com/cheshirepezz/xPiC1D/tree/master/Py.Py/Plotting)
+* [esPiC](https://github.com/cheshirepezz/xPiC1D/tree/master/esPiC)
 
 ## License
 
